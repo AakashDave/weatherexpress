@@ -56,7 +56,6 @@ let getdata = async()=>{
         }catch{
             answer.innerHTML="Enter city name correctly";
         hide_box.style.visibility="hidden";
-
         }
     }
 }
